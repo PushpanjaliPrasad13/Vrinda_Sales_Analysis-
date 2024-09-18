@@ -1,4 +1,5 @@
-# Vrinda_Sales_Analysis-
+# Vrinda_Sales_Analysis-(Excel Project)
+
 ## Overview
 Vrinda Store, a prominent retailer, is dedicated to understand its customer base and wants to increase their sales by enhancing sales strategies. 
 To achieve this goal,the store has undertaken a comprehensive analysis of its sales data for the year 2023. 
