@@ -10,6 +10,7 @@ The primary objective of this project is to create a detailed Annual Sales Repor
 The dataset was collected from Kaggle.com - [Vrinda Store Data](https://www.kaggle.com/datasets/anshika2301/vrinda-store-data-analysis)
 
 ## Dashboard
+![dashboard](https://github.com/PushpanjaliPrasad13/Vrinda_Sales_Analysis-/blob/main/Vrinda%20Store%20Analysis%20Report.pdf)
 
 ## Insights
 - The analysis revealed that the month of March saw the highest sales (~1.80 M).
